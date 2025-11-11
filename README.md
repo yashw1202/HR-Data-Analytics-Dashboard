@@ -1,4 +1,4 @@
-# 💼 HR Data Analytics Dashboard — Power BI
+# 💼 HR Data Analytics Dashboard : Power BI
 
 ## 📘 Project Overview
 The **HR Data Analytics Dashboard** provides key insights into workforce demographics, salary trends, and experience distribution.  
